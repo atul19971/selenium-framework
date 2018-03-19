@@ -1,0 +1,584 @@
+2018-03-20 00:32:32,788 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:32,788 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:32,788 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 00:32:32,791 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:32,791 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:32,796 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 00:32:32,798 INFO  [Log] Opening Browser 
+2018-03-20 00:32:33,485 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2018-03-20 00:32:34,120 INFO  [Log] Closing the browser 
+2018-03-20 00:32:34,120 ERROR [Log] Not able to Close the Browser --- null 
+2018-03-20 00:32:34,226 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 00:32:34,226 INFO  [Log] X 
+2018-03-20 00:32:34,226 INFO  [Log] X 
+2018-03-20 00:32:34,226 INFO  [Log] X 
+2018-03-20 00:32:34,226 INFO  [Log] X 
+2018-03-20 00:32:52,098 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:52,098 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:52,098 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 00:32:52,098 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:52,098 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:32:52,113 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 00:32:52,113 INFO  [Log] Opening Browser 
+2018-03-20 00:32:52,283 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2018-03-20 00:32:52,484 INFO  [Log] Closing the browser 
+2018-03-20 00:32:52,484 ERROR [Log] Not able to Close the Browser --- null 
+2018-03-20 00:32:52,595 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 00:32:52,595 INFO  [Log] X 
+2018-03-20 00:32:52,595 INFO  [Log] X 
+2018-03-20 00:32:52,595 INFO  [Log] X 
+2018-03-20 00:32:52,595 INFO  [Log] X 
+2018-03-20 00:34:40,339 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:34:40,339 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:34:40,339 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 00:34:40,342 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:34:40,342 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:34:42,130 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 00:35:23,720 INFO  [Log] Opening Browser 
+2018-03-20 00:35:24,186 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2018-03-20 00:35:57,695 INFO  [Log] Closing the browser 
+2018-03-20 00:35:57,695 ERROR [Log] Not able to Close the Browser --- null 
+2018-03-20 00:35:58,002 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 00:35:58,002 INFO  [Log] X 
+2018-03-20 00:35:58,002 INFO  [Log] X 
+2018-03-20 00:35:58,002 INFO  [Log] X 
+2018-03-20 00:35:58,002 INFO  [Log] X 
+2018-03-20 00:38:22,108 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:38:22,108 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:38:22,108 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 00:38:22,108 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:38:22,108 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:38:22,108 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 00:38:22,111 INFO  [Log] Opening Browser 
+2018-03-20 00:38:22,176 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2018-03-20 00:38:22,191 INFO  [Log] Closing the browser 
+2018-03-20 00:38:22,191 ERROR [Log] Not able to Close the Browser --- null 
+2018-03-20 00:38:22,191 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 00:38:22,207 INFO  [Log] X 
+2018-03-20 00:38:22,207 INFO  [Log] X 
+2018-03-20 00:38:22,207 INFO  [Log] X 
+2018-03-20 00:38:22,207 INFO  [Log] X 
+2018-03-20 00:41:06,792 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:41:06,792 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:41:06,792 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 00:41:06,792 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:41:06,792 INFO  [Log] **************************************************************************************** 
+2018-03-20 00:41:06,807 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 00:41:06,807 INFO  [Log] Opening Browser 
+2018-03-20 00:41:22,381 INFO  [Log] Chrome browser started 
+2018-03-20 00:41:22,831 INFO  [Log] Navigating to URL 
+2018-03-20 00:41:32,719 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-03-20 00:41:36,214 INFO  [Log] Entering the text in txtbx_UserName 
+2018-03-20 00:41:36,419 INFO  [Log] Entering the text in txtbx_Password 
+2018-03-20 00:41:36,807 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-03-20 00:41:36,999 INFO  [Log] Wait for 5 seconds 
+2018-03-20 00:41:42,101 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-03-20 00:41:52,284 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: fee0557ac66519dbfe02d1bfeccc5c15
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-03-20 00:41:52,432 INFO  [Log] Closing the browser 
+2018-03-20 00:41:53,441 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 00:41:53,441 INFO  [Log] X 
+2018-03-20 00:41:53,441 INFO  [Log] X 
+2018-03-20 00:41:53,441 INFO  [Log] X 
+2018-03-20 00:41:53,441 INFO  [Log] X 
+2018-03-20 01:10:56,288 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:56,288 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:56,288 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:10:56,288 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:56,288 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:56,288 INFO  [Log] Opening Browser 
+2018-03-20 01:11:10,021 INFO  [Log] Chrome browser started 
+2018-03-20 01:11:10,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:11:10,131 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:11:10,131 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:11:10,131 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:11:10,131 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:11:10,131 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:11:10,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:11:10,131 INFO  [Log] X 
+2018-03-20 01:12:24,724 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:24,724 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:24,725 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:12:24,725 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:24,725 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:24,727 INFO  [Log] Opening Browser 
+2018-03-20 01:12:30,312 INFO  [Log] Chrome browser started 
+2018-03-20 01:12:30,321 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:12:30,321 INFO  [Log] X 
+2018-03-20 01:12:30,322 INFO  [Log] X 
+2018-03-20 01:12:30,322 INFO  [Log] X 
+2018-03-20 01:12:30,322 INFO  [Log] X 
+2018-03-20 01:12:30,322 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:30,322 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:30,322 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:12:30,322 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:30,322 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:12:30,323 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:12:30,330 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:12:30,330 INFO  [Log] X 
+2018-03-20 01:12:30,330 INFO  [Log] X 
+2018-03-20 01:12:30,330 INFO  [Log] X 
+2018-03-20 01:12:30,330 INFO  [Log] X 
+2018-03-20 01:14:10,261 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:14:10,261 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:14:10,261 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:14:10,261 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:14:10,261 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:14:10,261 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:14:10,261 INFO  [Log] Opening Browser 
+2018-03-20 01:14:15,722 INFO  [Log] Chrome browser started 
+2018-03-20 01:14:15,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:14:15,732 INFO  [Log] X 
+2018-03-20 01:14:15,732 INFO  [Log] X 
+2018-03-20 01:14:15,732 INFO  [Log] X 
+2018-03-20 01:14:15,732 INFO  [Log] X 
+2018-03-20 01:16:13,284 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:13,284 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:13,284 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:16:13,284 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:13,284 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:13,284 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:16:13,300 INFO  [Log] Opening Browser 
+2018-03-20 01:16:13,518 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2018-03-20 01:16:13,892 INFO  [Log] Closing the browser 
+2018-03-20 01:16:13,892 ERROR [Log] Not able to Close the Browser --- null 
+2018-03-20 01:16:13,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:16:13,986 INFO  [Log] X 
+2018-03-20 01:16:13,986 INFO  [Log] X 
+2018-03-20 01:16:13,986 INFO  [Log] X 
+2018-03-20 01:16:13,986 INFO  [Log] X 
+2018-03-20 01:16:55,269 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:55,269 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:55,269 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:16:55,269 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:55,269 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:16:55,269 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:16:55,269 INFO  [Log] Opening Browser 
+2018-03-20 01:17:02,420 INFO  [Log] Chrome browser started 
+2018-03-20 01:17:02,432 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:17:02,432 INFO  [Log] X 
+2018-03-20 01:17:02,432 INFO  [Log] X 
+2018-03-20 01:17:02,432 INFO  [Log] X 
+2018-03-20 01:17:02,432 INFO  [Log] X 
+2018-03-20 01:17:39,571 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:17:39,587 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:17:39,587 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:17:39,587 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:17:39,587 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:17:39,587 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:17:39,587 INFO  [Log] Opening Browser 
+2018-03-20 01:17:45,119 INFO  [Log] Chrome browser started 
+2018-03-20 01:17:45,136 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:17:45,136 INFO  [Log] X 
+2018-03-20 01:17:45,136 INFO  [Log] X 
+2018-03-20 01:17:45,136 INFO  [Log] X 
+2018-03-20 01:17:45,136 INFO  [Log] X 
+2018-03-20 01:19:05,623 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:19:05,623 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:19:05,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:19:05,623 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:19:05,623 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:19:05,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:19:05,623 INFO  [Log] Opening Browser 
+2018-03-20 01:19:11,144 INFO  [Log] Chrome browser started 
+2018-03-20 01:19:11,161 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:19:11,161 INFO  [Log] X 
+2018-03-20 01:19:11,161 INFO  [Log] X 
+2018-03-20 01:19:11,161 INFO  [Log] X 
+2018-03-20 01:19:11,161 INFO  [Log] X 
+2018-03-20 01:21:07,547 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:21:07,547 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:21:07,547 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:21:07,547 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:21:07,547 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:21:07,547 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:21:07,547 INFO  [Log] Opening Browser 
+2018-03-20 01:21:13,410 INFO  [Log] Chrome browser started 
+2018-03-20 01:21:13,427 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:21:13,427 INFO  [Log] X 
+2018-03-20 01:21:13,427 INFO  [Log] X 
+2018-03-20 01:21:13,427 INFO  [Log] X 
+2018-03-20 01:21:13,427 INFO  [Log] X 
+2018-03-20 01:22:18,127 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:18,143 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:18,143 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:22:18,143 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:18,143 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:18,143 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:22:18,143 INFO  [Log] Opening Browser 
+2018-03-20 01:22:23,875 INFO  [Log] Chrome browser started 
+2018-03-20 01:22:24,959 INFO  [Log] Navigating to URL 
+2018-03-20 01:22:33,498 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-03-20 01:22:37,739 ERROR [Log] Not able to click --- chrome not reachable
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: c4ea5c22bc468c5e2fd051f1ad25cbbb
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-03-20 01:22:37,868 INFO  [Log] Closing the browser 
+2018-03-20 01:22:38,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:22:38,732 INFO  [Log] X 
+2018-03-20 01:22:38,732 INFO  [Log] X 
+2018-03-20 01:22:38,732 INFO  [Log] X 
+2018-03-20 01:22:38,732 INFO  [Log] X 
+2018-03-20 01:23:13,301 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:13,301 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:13,301 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:23:13,301 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:13,301 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:13,301 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:23:13,317 INFO  [Log] Opening Browser 
+2018-03-20 01:23:18,925 INFO  [Log] Chrome browser started 
+2018-03-20 01:23:19,152 INFO  [Log] Navigating to URL 
+2018-03-20 01:23:31,469 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-03-20 01:23:41,613 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account']/a"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 8de1b3399feef9c045b6ffa9b38830ef
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2018-03-20 01:23:41,823 INFO  [Log] Closing the browser 
+2018-03-20 01:23:42,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:23:42,761 INFO  [Log] X 
+2018-03-20 01:23:42,761 INFO  [Log] X 
+2018-03-20 01:23:42,761 INFO  [Log] X 
+2018-03-20 01:23:42,761 INFO  [Log] X 
+2018-03-20 01:29:58,411 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:29:58,411 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:29:58,411 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:29:58,411 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:29:58,411 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:29:58,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:29:58,411 INFO  [Log] Opening Browser 
+2018-03-20 01:30:14,013 INFO  [Log] Chrome browser started 
+2018-03-20 01:30:14,138 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:30:14,138 INFO  [Log] X 
+2018-03-20 01:30:14,138 INFO  [Log] X 
+2018-03-20 01:30:14,138 INFO  [Log] X 
+2018-03-20 01:30:14,138 INFO  [Log] X 
+2018-03-20 01:30:50,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:30:50,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:30:50,172 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:30:50,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:30:50,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:30:50,172 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:30:50,172 INFO  [Log] Opening Browser 
+2018-03-20 01:30:55,890 INFO  [Log] Chrome browser started 
+2018-03-20 01:30:56,960 INFO  [Log] Navigating to URL 
+2018-03-20 01:31:10,111 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:31:10,111 INFO  [Log] Entering the text in txtbx_UserName 
+2018-03-20 01:31:20,229 ERROR [Log] Not able to Enter UserName --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='log']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: d2ffb46f4b2aef8f090b6494c88812af
+*** Element info: {Using=xpath, value=.//*[@id='log']} 
+2018-03-20 01:31:20,323 INFO  [Log] Closing the browser 
+2018-03-20 01:31:21,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:31:21,276 INFO  [Log] X 
+2018-03-20 01:31:21,276 INFO  [Log] X 
+2018-03-20 01:31:21,276 INFO  [Log] X 
+2018-03-20 01:31:21,276 INFO  [Log] X 
+2018-03-20 01:32:37,190 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:32:37,190 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:32:37,190 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:32:37,190 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:32:37,190 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:32:37,190 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:32:37,190 INFO  [Log] Opening Browser 
+2018-03-20 01:32:42,382 INFO  [Log] Chrome browser started 
+2018-03-20 01:32:42,632 INFO  [Log] Navigating to URL 
+2018-03-20 01:32:56,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:32:56,791 INFO  [Log] Entering the text in txtbx_UserName 
+2018-03-20 01:33:07,031 ERROR [Log] Not able to Enter UserName --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='log']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 952d2e115ee917adf77503b249cdd870
+*** Element info: {Using=xpath, value=.//*[@id='log']} 
+2018-03-20 01:33:07,125 INFO  [Log] Closing the browser 
+2018-03-20 01:33:08,115 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:33:08,115 INFO  [Log] X 
+2018-03-20 01:33:08,115 INFO  [Log] X 
+2018-03-20 01:33:08,115 INFO  [Log] X 
+2018-03-20 01:33:08,115 INFO  [Log] X 
+2018-03-20 01:48:22,147 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:48:22,147 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:48:22,147 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:48:22,147 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:48:22,147 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:48:22,147 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:48:22,147 INFO  [Log] Opening Browser 
+2018-03-20 01:48:39,759 INFO  [Log] Chrome browser started 
+2018-03-20 01:48:46,156 INFO  [Log] Navigating to URL 
+2018-03-20 01:48:50,298 INFO  [Log] Not able to navigate --- chrome not reachable
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: edb9ca131b7275f27785d562462b4f32 
+2018-03-20 01:48:50,414 INFO  [Log] Closing the browser 
+2018-03-20 01:48:51,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:48:51,246 INFO  [Log] X 
+2018-03-20 01:48:51,246 INFO  [Log] X 
+2018-03-20 01:48:51,246 INFO  [Log] X 
+2018-03-20 01:48:51,246 INFO  [Log] X 
+2018-03-20 01:49:08,066 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:49:08,066 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:49:08,066 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:49:08,066 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:49:08,066 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:49:08,081 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 01:49:08,081 INFO  [Log] Opening Browser 
+2018-03-20 01:49:13,393 INFO  [Log] Chrome browser started 
+2018-03-20 01:49:13,662 INFO  [Log] Navigating to URL 
+2018-03-20 01:49:27,425 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:49:27,425 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 01:49:28,615 INFO  [Log] Closing the browser 
+2018-03-20 01:49:29,507 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:49:29,508 INFO  [Log] X 
+2018-03-20 01:49:29,508 INFO  [Log] X 
+2018-03-20 01:49:29,508 INFO  [Log] X 
+2018-03-20 01:49:29,508 INFO  [Log] X 
+2018-03-20 01:50:18,417 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:50:18,417 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:50:18,417 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:50:18,417 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:50:18,417 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:50:18,417 INFO  [Log] Opening Browser 
+2018-03-20 01:50:24,096 INFO  [Log] Chrome browser started 
+2018-03-20 01:50:24,347 INFO  [Log] Navigating to URL 
+2018-03-20 01:50:40,971 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:50:40,971 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 01:50:42,221 INFO  [Log] Closing the browser 
+2018-03-20 01:50:43,203 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:50:43,203 INFO  [Log] X 
+2018-03-20 01:50:43,203 INFO  [Log] X 
+2018-03-20 01:50:43,203 INFO  [Log] X 
+2018-03-20 01:50:43,203 INFO  [Log] X 
+2018-03-20 01:54:35,504 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:54:35,520 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:54:35,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:54:35,520 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:54:35,520 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:54:35,520 INFO  [Log] Opening Browser 
+2018-03-20 01:54:43,180 INFO  [Log] Chrome browser started 
+2018-03-20 01:54:45,244 INFO  [Log] Navigating to URL 
+2018-03-20 01:55:04,188 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:55:04,188 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 01:55:05,435 INFO  [Log] Closing the browser 
+2018-03-20 01:55:06,415 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:55:06,415 INFO  [Log] X 
+2018-03-20 01:55:06,415 INFO  [Log] X 
+2018-03-20 01:55:06,415 INFO  [Log] X 
+2018-03-20 01:55:06,415 INFO  [Log] X 
+2018-03-20 01:56:50,646 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:56:50,662 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:56:50,662 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:56:50,662 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:56:50,662 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:56:50,662 INFO  [Log] Opening Browser 
+2018-03-20 01:56:55,948 INFO  [Log] Chrome browser started 
+2018-03-20 01:56:56,185 INFO  [Log] Navigating to URL 
+2018-03-20 01:57:09,561 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a STRING value from a NUMERIC cell 
+2018-03-20 01:57:09,561 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 01:57:11,128 INFO  [Log] Closing the browser 
+2018-03-20 01:57:12,005 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:57:12,005 INFO  [Log] X 
+2018-03-20 01:57:12,005 INFO  [Log] X 
+2018-03-20 01:57:12,005 INFO  [Log] X 
+2018-03-20 01:57:12,005 INFO  [Log] X 
+2018-03-20 01:58:00,219 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:58:00,219 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:58:00,219 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:58:00,219 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:58:00,219 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:58:00,219 INFO  [Log] Opening Browser 
+2018-03-20 01:58:05,693 INFO  [Log] Chrome browser started 
+2018-03-20 01:58:05,876 INFO  [Log] Navigating to URL 
+2018-03-20 01:58:18,410 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 01:58:19,883 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 01:58:20,145 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-03-20 01:58:30,311 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='login']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 554e7974e3a1fbe1dc7bc2ceab767d15
+*** Element info: {Using=xpath, value=.//*[@id='login']} 
+2018-03-20 01:58:30,414 INFO  [Log] Closing the browser 
+2018-03-20 01:58:31,564 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:58:31,564 INFO  [Log] X 
+2018-03-20 01:58:31,565 INFO  [Log] X 
+2018-03-20 01:58:31,565 INFO  [Log] X 
+2018-03-20 01:58:31,565 INFO  [Log] X 
+2018-03-20 02:00:17,614 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:00:17,614 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:00:17,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 02:00:17,614 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:00:17,614 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:00:17,614 INFO  [Log] Opening Browser 
+2018-03-20 02:00:23,847 INFO  [Log] Chrome browser started 
+2018-03-20 02:00:25,259 INFO  [Log] Navigating to URL 
+2018-03-20 02:00:41,367 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 02:00:43,222 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 02:00:43,560 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-03-20 02:00:53,695 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='login']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 7bc998e4eb2d8a2f06cce13b1e6f241f
+*** Element info: {Using=xpath, value=.//*[@id='login']} 
+2018-03-20 02:00:53,799 INFO  [Log] Closing the browser 
+2018-03-20 02:00:54,726 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 02:00:54,726 INFO  [Log] X 
+2018-03-20 02:00:54,726 INFO  [Log] X 
+2018-03-20 02:00:54,726 INFO  [Log] X 
+2018-03-20 02:00:54,727 INFO  [Log] X 
+2018-03-20 02:05:28,885 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:05:28,885 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:05:28,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 02:05:28,885 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:05:28,885 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:05:28,885 INFO  [Log] Opening Browser 
+2018-03-20 02:05:41,763 INFO  [Log] Chrome browser started 
+2018-03-20 02:05:43,641 INFO  [Log] Navigating to URL 
+2018-03-20 02:06:01,518 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 02:06:02,765 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 02:06:03,050 INFO  [Log] Clicking on Webelement login_btn 
+2018-03-20 02:06:03,178 ERROR [Log] Not able to click --- unknown error: Element <button class="md-primary md-raised md-button md-ink-ripple flex-xs-100" type="button" ng-transclude="" flex-xs="100" ng-click="vm.loginUser()">...</button> is not clickable at point (334, 382). Other element would receive the click: <div data-loading="" class="loaderContainer" ng-show="isLoaderActive" aria-hidden="false">...</div>
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 947ecc73beae36763a8dfb8c30164635 
+2018-03-20 02:06:03,276 INFO  [Log] Closing the browser 
+2018-03-20 02:06:04,231 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 02:06:04,231 INFO  [Log] X 
+2018-03-20 02:06:04,231 INFO  [Log] X 
+2018-03-20 02:06:04,231 INFO  [Log] X 
+2018-03-20 02:06:04,231 INFO  [Log] X 
+2018-03-20 02:10:00,084 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:10:00,084 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:10:00,084 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 02:10:00,084 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:10:00,084 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:10:00,084 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 02:10:00,084 INFO  [Log] Opening Browser 
+2018-03-20 02:10:17,727 INFO  [Log] Chrome browser started 
+2018-03-20 02:10:18,094 INFO  [Log] Navigating to URL 
+2018-03-20 02:10:32,449 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 02:10:33,717 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 02:10:34,036 INFO  [Log] Clicking on Webelement login_btn 
+2018-03-20 02:10:34,199 ERROR [Log] Not able to click --- unknown error: Element <button class="md-primary md-raised md-button md-ink-ripple flex-xs-100" type="button" ng-transclude="" flex-xs="100" ng-click="vm.loginUser()">...</button> is not clickable at point (334, 382). Other element would receive the click: <div data-loading="" class="loaderContainer" ng-show="isLoaderActive" aria-hidden="false">...</div>
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 9c10930055ed76d854abe79631ee148e 
+2018-03-20 02:10:34,285 INFO  [Log] Closing the browser 
+2018-03-20 02:10:35,266 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 02:10:35,266 INFO  [Log] X 
+2018-03-20 02:10:35,266 INFO  [Log] X 
+2018-03-20 02:10:35,266 INFO  [Log] X 
+2018-03-20 02:10:35,266 INFO  [Log] X 
+2018-03-20 02:12:10,671 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:12:10,671 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:12:10,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 02:12:10,671 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:12:10,671 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:12:10,687 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 02:12:10,687 INFO  [Log] Opening Browser 
+2018-03-20 02:12:17,298 INFO  [Log] Chrome browser started 
+2018-03-20 02:12:18,080 INFO  [Log] Navigating to URL 
+2018-03-20 02:12:29,821 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 02:12:30,724 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 02:12:30,942 INFO  [Log] Clicking on Webelement login_btn 
+2018-03-20 02:12:31,082 ERROR [Log] Not able to click --- unknown error: Element <button class="md-primary md-raised md-button md-ink-ripple flex-xs-100" type="button" ng-transclude="" flex-xs="100" ng-click="vm.loginUser()">...</button> is not clickable at point (334, 382). Other element would receive the click: <div data-loading="" class="loaderContainer" ng-show="isLoaderActive" aria-hidden="false">...</div>
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'N0LPFAS6517CNT', ip: '10.130.96.84', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ATUL~1.SIN\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}
+Session ID: 536c1d2d19a47356973c9571ba2367c8 
+2018-03-20 02:12:31,194 INFO  [Log] Closing the browser 
+2018-03-20 02:12:32,126 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 02:12:32,126 INFO  [Log] X 
+2018-03-20 02:12:32,126 INFO  [Log] X 
+2018-03-20 02:12:32,126 INFO  [Log] X 
+2018-03-20 02:12:32,126 INFO  [Log] X 
+2018-03-20 02:14:08,746 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:14:08,747 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:14:08,747 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 02:14:08,747 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:14:08,747 INFO  [Log] **************************************************************************************** 
+2018-03-20 02:14:08,748 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 02:14:08,750 INFO  [Log] Opening Browser 
+2018-03-20 02:14:20,657 INFO  [Log] Chrome browser started 
+2018-03-20 02:14:24,737 INFO  [Log] Navigating to URL 
+2018-03-20 02:14:40,602 INFO  [Log] Entering the text in userName_txt 
+2018-03-20 02:14:43,488 INFO  [Log] Entering the text in pwd_text 
+2018-03-20 02:14:43,772 INFO  [Log] Wait for 5 seconds 
+2018-03-20 02:14:48,864 INFO  [Log] Clicking on Webelement login_btn 
+2018-03-20 02:15:11,070 INFO  [Log] Wait for 5 seconds 
+2018-03-20 02:15:16,326 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 02:15:16,326 INFO  [Log] X 
+2018-03-20 02:15:16,326 INFO  [Log] X 
+2018-03-20 02:15:16,326 INFO  [Log] X 
+2018-03-20 02:15:16,326 INFO  [Log] X 

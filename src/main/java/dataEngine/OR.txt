@@ -1,0 +1,13 @@
+# Home Page Objects
+btn_MyAccount=.//*[@id='account']/a
+btn_LogOut=.//*[@id='account_logout']/a
+ 
+# Login Page Object
+txtbx_UserName=.//*[@id='log']
+txtbx_Password=.//*[@id='pwd']
+btn_LogIn=.//*[@id='login']
+
+#SL Login Page
+userName_txt=//*[@id='input_0']
+pwd_text=//*[@id='input_1']
+login_btn=/html/body/div[3]/div/div/md-content/div/md-card/md-card-content/md-content/div/form/div[2]/button
